@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pomodoro_timer_FCC/static/css/main.b5a53480.css",
+    "main.js": "/pomodoro_timer_FCC/static/js/main.dab600d1.js",
+    "static/js/787.fc16652c.chunk.js": "/pomodoro_timer_FCC/static/js/787.fc16652c.chunk.js",
+    "index.html": "/pomodoro_timer_FCC/index.html",
+    "main.b5a53480.css.map": "/pomodoro_timer_FCC/static/css/main.b5a53480.css.map",
+    "main.dab600d1.js.map": "/pomodoro_timer_FCC/static/js/main.dab600d1.js.map",
+    "787.fc16652c.chunk.js.map": "/pomodoro_timer_FCC/static/js/787.fc16652c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5a53480.css",
+    "static/js/main.dab600d1.js"
+  ]
+}
